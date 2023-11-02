@@ -26,3 +26,11 @@ def guess_the_number():
 if __name__ == "__main__":
     guess_the_number()
 
+def add_numbers():
+    number1 = random.randint(5,25) 
+    number2 = random.randint(50, 67)  
+    print(number1 + number2) 
+
+
+if __name__=="__main__":
+    add_numbers()
