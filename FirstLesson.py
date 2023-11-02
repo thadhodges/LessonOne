@@ -1,6 +1,6 @@
-print("Hello")
-num = 2+2
-print(num)
+#print("Hello")
+#num = 2+2
+#print(num)
 
 import random
 
